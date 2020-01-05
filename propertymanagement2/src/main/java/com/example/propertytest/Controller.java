@@ -19,6 +19,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(value = "/getownerdetail")
 public class Controller {
 static {
+	
+	System.out.println("controller_rwhhftj");
 	System.out.println("controller");
 System.out.println("controller");System.out.println("controller");
 
