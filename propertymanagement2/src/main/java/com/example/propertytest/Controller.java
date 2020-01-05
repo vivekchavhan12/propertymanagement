@@ -20,6 +20,10 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 static {
 	System.out.println("controller");
+System.out.println("controller");System.out.println("controller");
+
+System.out.println("controller");
+
 }
 	@Autowired
 	Services services;
